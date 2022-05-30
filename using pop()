@@ -1,0 +1,3 @@
+D1['anni'] = D1.pop('sam')
+print ("Dictionary D1 after changing key 'sam'=", str(D1))
+ 
