@@ -1,0 +1,3 @@
+new_keyslist = ['tom', 'simon', 'tony', 'roy']
+final_D1 = dict(zip(new_keyslist, list(D1.values())))
+print ("Dictionary D1 after changing all keys=", str(final_D1))
